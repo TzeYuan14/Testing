@@ -13,7 +13,7 @@ print("The sum of square of numbers is", sum)
 print(list(range(1, 10, 2)))
 
 
-genre = ["Poki", "Haru", "Nagi"]
+genre = ["Poki", "Haku", "Nagi"]
 
 for i in range(len(genre)):
     print("I like", genre[i])
